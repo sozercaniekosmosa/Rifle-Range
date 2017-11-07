@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe085b7f0879c584e9b92bf8afa7dc7f
+timeCreated: 1509645780
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atiba Cyrillic
+  fontNames:
+  - Atiba Cyrillic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

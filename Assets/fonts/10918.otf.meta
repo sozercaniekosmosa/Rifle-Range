@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d6d1f8ceb60744b4f962937be7f4c63a
+timeCreated: 1509645567
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: True Lies(RUS BY LYAJKA)
+  fontNames:
+  - True Lies(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
