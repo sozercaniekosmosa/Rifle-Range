@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\general\audio.cs">
+    <Files>
+      <File FileName="Assets\general\audio.cs" Line="32" Column="29" />
+      <File FileName="Assets\general\infoGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\general\general.cs" Line="31" Column="3" />
+      <File FileName="Assets\player\player.cs" Line="103" Column="6" />
+      <File FileName="Assets\general\bonus\CBouns.cs" Line="46" Column="3" />
+      <File FileName="Assets\enemy\enemy.cs" Line="114" Column="41" />
+      <File FileName="Assets\enemy\weapon\bomb.cs" Line="29" Column="3" />
+      <File FileName="Assets\scripts\manageEvents.cs" Line="11" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\general\general.cs" line="45" offsetX="592" offsetY="704" expression="objects" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
